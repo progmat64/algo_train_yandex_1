@@ -10,4 +10,5 @@ def f():
             return "NO"
     return "YES"
 
+
 print(f())
